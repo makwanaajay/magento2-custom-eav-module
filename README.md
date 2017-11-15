@@ -1,2 +1,2 @@
 # magento2-custom-eav-module
-Custom EAV Entity with attribute manager
+Magento 2 Custom EAV Entity with attribute manager
